@@ -1,0 +1,262 @@
+[
+ {
+   "Food Item": "Pork Meat",
+   "CO2 Emissions": 4.62
+ },
+ {
+   "Food Item": "Chicken",
+   "CO2 Emissions": 3.26
+ },
+ {
+   "Food Item": "Eggs",
+   "CO2 Emissions": 2.53
+ },
+ {
+   "Food Item": "Beef",
+   "CO2 Emissions": 23.8
+ },
+ {
+   "Food Item": "Milk",
+   "CO2 Emissions": 1.37
+ },
+ {
+   "Food Item": "Butter",
+   "CO2 Emissions": 12.67
+ },
+ {
+   "Food Item": "Yogurt",
+   "CO2 Emissions": 1.54
+ },
+ {
+   "Food Item": "Cream",
+   "CO2 Emissions": 6.47
+ },
+ {
+   "Food Item": "Hard Cheese",
+   "CO2 Emissions": 12.56
+ },
+ {
+   "Food Item": "Dessert Cheese",
+   "CO2 Emissions": 8.36
+ },
+ {
+   "Food Item": "CRÈME FRAICHE ",
+   "CO2 Emissions": 5.71
+ },
+ {
+   "Food Item": "Milk Powder",
+   "CO2 Emissions": 11.79
+ },
+ {
+   "Food Item": "Fish and Seafood",
+   "CO2 Emissions": 6.1
+ },
+ {
+   "Food Item": "Grains",
+   "CO2 Emissions": 1.16
+ },
+ {
+   "Food Item": "Rice",
+   "CO2 Emissions": 3.58
+ },
+ {
+   "Food Item": "Rapeseed Oil",
+   "CO2 Emissions": 2.37
+ },
+ {
+   "Food Item": "Olive Oil",
+   "CO2 Emissions": 4.04
+ },
+ {
+   "Food Item": "Sugar",
+   "CO2 Emissions": 1.52
+ },
+ {
+   "Food Item": "Tomato",
+   "CO2 Emissions": 1.49
+ },
+ {
+   "Food Item": "Cucumber",
+   "CO2 Emissions": 0.73
+ },
+ {
+   "Food Item": "Bell Pepper",
+   "CO2 Emissions": 2.33
+ },
+ {
+   "Food Item": "Iceberg lettuce",
+   "CO2 Emissions": 0.32
+ },
+ {
+   "Food Item": "Potato",
+   "CO2 Emissions": 0.38
+ },
+ {
+   "Food Item": "Carrot",
+   "CO2 Emissions": 0.3
+ },
+ {
+   "Food Item": "Onion",
+   "CO2 Emissions": 0.38
+ },
+ {
+   "Food Item": "Leek",
+   "CO2 Emissions": 0.4
+ },
+ {
+   "Food Item": "Broccoli ",
+   "CO2 Emissions": 0.63
+ },
+ {
+   "Food Item": "White Cabbage",
+   "CO2 Emissions": 0.36
+ },
+ {
+   "Food Item": "Cauliflower",
+   "CO2 Emissions": 0.53
+ },
+ {
+   "Food Item": "Peas",
+   "CO2 Emissions": 0.63
+ },
+ {
+   "Food Item": "Beans",
+   "CO2 Emissions": 1.16
+ },
+ {
+   "Food Item": "Apple",
+   "CO2 Emissions": 0.37
+ },
+ {
+   "Food Item": "Pear",
+   "CO2 Emissions": 0.4
+ },
+ {
+   "Food Item": "Melon",
+   "CO2 Emissions": 2.14
+ },
+ {
+   "Food Item": "Banana",
+   "CO2 Emissions": 0.67
+ },
+ {
+   "Food Item": "Orange",
+   "CO2 Emissions": 0.73
+ },
+ {
+   "Food Item": "Lemon",
+   "CO2 Emissions": 0.46
+ },
+ {
+   "Food Item": "Avocado",
+   "CO2 Emissions": 1.09
+ },
+ {
+   "Food Item": "Kiwifruit",
+   "CO2 Emissions": 0.63
+ },
+ {
+   "Food Item": "Strawberry",
+   "CO2 Emissions": 0.74
+ },
+ {
+   "Food Item": "Raspberry",
+   "CO2 Emissions": 0.76
+ },
+ {
+   "Food Item": "Cocoa powder",
+   "CO2 Emissions": 4.44
+ },
+ {
+   "Food Item": "Cocoa butter",
+   "CO2 Emissions": 8.79
+ },
+ {
+   "Food Item": "Coffee",
+   "CO2 Emissions": 6.41
+ },
+ {
+   "Food Item": "Pasta",
+   "CO2 Emissions": 1.77
+ },
+ {
+   "Food Item": "Buns",
+   "CO2 Emissions": 1.45
+ },
+ {
+   "Food Item": "Biscuits",
+   "CO2 Emissions": 1.1
+ },
+ {
+   "Food Item": "Pastry",
+   "CO2 Emissions": 1.41
+ },
+ {
+   "Food Item": "Rusks",
+   "CO2 Emissions": 1.43
+ },
+ {
+   "Food Item": "Wheat bread",
+   "CO2 Emissions": 1.02
+ },
+ {
+   "Food Item": "Wheat-rye bread",
+   "CO2 Emissions": 1.04
+ },
+ {
+   "Food Item": "Crisp bread",
+   "CO2 Emissions": 1.11
+ },
+ {
+   "Food Item": "Follow up formula",
+   "CO2 Emissions": null
+ },
+ {
+   "Food Item": "Margaraine",
+   "CO2 Emissions": 2.42
+ },
+ {
+   "Food Item": "Low fat margarine",
+   "CO2 Emissions": 1.27
+ },
+ {
+   "Food Item": "Coca drink powder",
+   "CO2 Emissions": 2.3
+ },
+ {
+   "Food Item": "Soda",
+   "CO2 Emissions": 0.41
+ },
+ {
+   "Food Item": "CIDER (NON-ALCOHOLIC)",
+   "CO2 Emissions": 0.48
+ },
+ {
+   "Food Item": "Beer (Regular)",
+   "CO2 Emissions": 0.46
+ },
+ {
+   "Food Item": "Mineral water",
+   "CO2 Emissions": 0.28
+ },
+ {
+   "Food Item": "Juice",
+   "CO2 Emissions": 1.24
+ },
+ {
+   "Food Item": "Squash drink",
+   "CO2 Emissions": 1.27
+ },
+ {
+   "Food Item": "Milk Chocolate",
+   "CO2 Emissions": 6.86
+ },
+ {
+   "Food Item": "Potato crisps",
+   "CO2 Emissions": 2.89
+ },
+ {
+   "Food Item": "Ice cream",
+   "CO2 Emissions": 4.28
+ }
+]
